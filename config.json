@@ -20,10 +20,10 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "FACEBOOK_ADMIN": "",
-    "BOTNAME": "Mirai-V3-Unofficial",
+    "BOTNAME": "Mirai-V3",
     "PREFIX": "!",
-    "BOXADMIN": "6804616456270022",
-    "ADMINBOT": [],
+    "BOXADMIN": "61564459952029",
+    "ADMINBOT": [61564459952029],
     "NDH": [
         "502275138"
     ],
